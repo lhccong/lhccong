@@ -2,7 +2,7 @@
 
 - 练习时长两年半的Java开发程序🐵，目前在一家珠海自研公司从事Java开发工作🌈
 
-### ✨ My Skils   
+### ✨ 我的技能   
 
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
 ![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
