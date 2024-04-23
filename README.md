@@ -21,6 +21,16 @@
 ## 今年汇总 ✨
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lhccong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhccong&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+### 开发的项目
+
+- 业务项目
+  - [微狗实时聊天🔥](https://github.com/lhccong/we-go)
+
+- 组件项目
+  - [轻量级 RPC 框架🚀](https://github.com/lhccong/CRPC)
+  - [慢 SQL 分析工具🌱](https://github.com/lhccong/sql-slow-mirror)
+  - [小而全的第三方登录工具🧊](https://github.com/lhccong/OneAuth)
+
 
 ### 🎉 Get in touch
 
