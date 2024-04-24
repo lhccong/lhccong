@@ -27,11 +27,23 @@
 
 - 业务项目
   - [微狗实时聊天🔥](https://github.com/lhccong/we-go)
+  - [短链狗短链生成✨](https://github.com/lhccong/short-link-dog-backend)
+  - [COJ判题系统✅](https://github.com/lhccong/Coj-backend)
+  - [万物代码平🌱](https://github.com/lhccong/wanwu-code-backend)
+  - [SpringBoot 项目快速开发模板⚡](https://github.com/lhccong/springboot-init)
+  - [万物代码生成器🚀](https://github.com/lhccong/wanwu-generator)
+
+
+
+
 
 - 组件项目
-  - [轻量级 RPC 框架🚀](https://github.com/lhccong/CRPC)
+  - [轻量级 RPC 框架🚀基于 Netty + Zookeeper](https://github.com/lhccong/CRPC)
+  - [轻量级 RPC 框架🚀基于 Vert.x + Etcd](https://github.com/lhccong/cong-rpc)
   - [慢 SQL 分析工具🌱](https://github.com/lhccong/sql-slow-mirror)
   - [小而全的第三方登录工具🧊](https://github.com/lhccong/OneAuth)
+  - [Switch-HTTP 一款控制网络库工具组件](https://github.com/lhccong/switch-http)
+
 
 
 ### 🎉 Get in touch
