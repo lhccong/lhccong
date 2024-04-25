@@ -42,7 +42,7 @@
   - [轻量级 RPC 框架🚀基于 Vert.x + Etcd](https://github.com/lhccong/cong-rpc)
   - [慢 SQL 分析工具🌱](https://github.com/lhccong/sql-slow-mirror)
   - [小而全的第三方登录工具🧊](https://github.com/lhccong/OneAuth)
-  - [Switch-HTTP 一款控制网络库工具组件](https://github.com/lhccong/switch-http)
+  - [Switch-HTTP 一款控制网络库工具组件💭](https://github.com/lhccong/switch-http)
 
 
 
