@@ -1,8 +1,9 @@
 ## 我是聪ζ
 
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
-- 🏡 作品： <a href="https://github.com/lhccong/we-go" target="_blank">微狗实时聊天</a> | <a href="https://github.com/lhccong/short-link-dog-backend" target="_blank">短链狗短链生成</a> | <a href="https://github.com/lhccong/sql-slow-mirror" target="_blank">SQL 慢查询分析器</a> | <a href="https://github.com/lhccong/CRPC" target="_blank">轻量级RPC框架</a> | <a href="https://github.com/lhccong/Coj-backend" target="_blank">COJ判题系统</a> | <a href="https://github.com/lhccong/sql-slow-mirror" target="_blank">慢 SQL 分析工具</a>
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/LHCong_)、[掘金💤](https://juejin.cn/user/1146154496301956) - 足够硬核，内容老狠了！
+- 🏡 业务项目： <a href="https://github.com/lhccong/we-go" target="_blank">微狗实时聊天</a> | <a href="https://github.com/lhccong/short-link-dog-backend" target="_blank">短链狗短链生成</a> | <a href="https://github.com/lhccong/Coj-backend" target="_blank">COJ判题系统</a> | <a href="https://github.com/lhccong/wanwu-code-backend" target="_blank">万物代码平台</a> | <a href="https://github.com/lhccong/wanwu-generator" target="_blank">万物代码生成器</a> | <a href="https://github.com/lhccong/LunarSurvey" target="_blank">月亮勘探- AI 答题应用平台</a> | <a href="https://github.com/lhccong/springboot-init" target="_blank">后端开发模板</a>
+- 🚀组件项目：<a href="https://github.com/lhccong/sql-slow-mirror" target="_blank">SQL 慢查询分析器</a> | <a href="https://github.com/lhccong/CRPC" target="_blank">轻量级RPC框架</a> | <a href="https://github.com/lhccong/OneAuth" target="_blank">小而全的第三方登录工具</a> | <a href="https://github.com/lhccong/switch-http" target="_blank">控制网络库工具组件</a> | <a href="https://github.com/lhccong/switch-http" target="_blank">AsyncX 并行框架</a> | <a href="https://github.com/lhccong/NanoBatis" target="_blank">NanoBatis</a>
 
 
 ### 我的技能(my skills)   
@@ -23,38 +24,7 @@
 ## 今年汇总(This year's summary) 
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lhccong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhccong&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-### 开发的项目(developed projects)
 
-- 业务项目(business projects)
-  - [微狗实时聊天](https://github.com/lhccong/we-go)
-  - [短链狗短链生成](https://github.com/lhccong/short-link-dog-backend)
-  - [月亮勘探- AI 答题应用平台](https://github.com/lhccong/LunarSurvey)
-  - [COJ判题系统](https://github.com/lhccong/Coj-backend)
-  - [万物代码平台](https://github.com/lhccong/wanwu-code-backend)
-  - [SpringBoot 项目快速开发模板](https://github.com/lhccong/springboot-init)
-  - [万物代码生成器](https://github.com/lhccong/wanwu-generator)
-
-
-
-
-
-- 组件项目(component projects)
-  - [轻量级 RPC 框架基于 Netty + Zookeeper](https://github.com/lhccong/CRPC)
-  - [轻量级 RPC 框架基于 Vert.x + Etcd](https://github.com/lhccong/cong-rpc)
-  - [NanoBatis 一款 Mini 版本 MyBatis](https://github.com/lhccong/NanoBatis)
-  - [慢 SQL 分析工具](https://github.com/lhccong/sql-slow-mirror)
-  - [小而全的第三方登录工具](https://github.com/lhccong/OneAuth)
-  - [Switch-HTTP 一款控制网络库工具组件](https://github.com/lhccong/switch-http)
-  - [AsyncX 一款控制任意的多线程并行、串行、阻塞、依赖、回调的并行框架](https://github.com/lhccong/AsyncX)
-
-
-
-
-
-
-### 🎉 Get in touch
-
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lhccong)
 ### 交个朋友 👬🏻
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
