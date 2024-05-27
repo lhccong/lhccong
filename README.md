@@ -1,4 +1,4 @@
-## 我是聪🌱
+## 我是聪 🌷
 
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/LHCong_)、[掘金💤](https://juejin.cn/user/1146154496301956) - 足够硬核，内容老狠了！
