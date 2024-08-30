@@ -3,7 +3,7 @@
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/LHCong_)、[掘金💤](https://juejin.cn/user/1146154496301956) - 足够硬核，内容老狠了！
 - 🏡 业务项目： <a href="https://github.com/lhccong/we-go" target="_blank">微狗实时聊天</a> | <a href="https://github.com/lhccong/sql-dog-backend" target="_blank">SQL-Dog一站式SQL平台</a> | <a href="https://github.com/lhccong/short-link-dog-backend" target="_blank">短链狗短链生成</a> | <a href="https://github.com/lhccong/Coj-backend" target="_blank">COJ判题系统</a> | <a href="https://github.com/lhccong/wanwu-code-backend" target="_blank">万物代码平台</a> | <a href="https://github.com/lhccong/LunarSurvey" target="_blank">AI 答题应用平台</a>
-- 🚀组件项目：<a href="https://github.com/lhccong/sql-slow-mirror" target="_blank">SQL 慢查询分析器</a> | <a href="https://github.com/lhccong/CRPC" target="_blank">轻量级RPC框架</a> | <a href="https://github.com/lhccong/OneAuth" target="_blank">小而全的第三方登录工具</a> | <a href="https://github.com/lhccong/switch-http" target="_blank">控制网络库工具组件</a> | <a href="https://github.com/lhccong/AsyncX" target="_blank">AsyncX 并行框架</a> | <a href="https://github.com/lhccong/NanoBatis" target="_blank">NanoBatis</a>
+- 🚀组件项目：<a href="https://github.com/lhccong/sql-slow-mirror" target="_blank">SQL 慢查询分析器</a> | <a href="https://github.com/lhccong/CRPC" target="_blank">轻量级RPC框架</a>| <a href="https://github.com/lhccong/flex-pool" target="_blank">动态线程池FlexPool</a>  | <a href="https://github.com/lhccong/switch-http" target="_blank">控制网络库工具组件</a> | <a href="https://github.com/lhccong/AsyncX" target="_blank">AsyncX 并行框架</a> | <a href="https://github.com/lhccong/OneAuth" target="_blank">小而全的第三方登录工具</a>
 - 💌 微信：Lhc_iuuaiong- 备注来意
 
 
